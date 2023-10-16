@@ -5,7 +5,7 @@
     "homepage": "http://querylist.cc",
     "require": {
         "PHP":">=7.1",
-        "jaeger/phpquery-single": "^1",
+        "hahadu/phpquery-single-cpoy": "*",
         "jaeger/g-http": "^1.1",
         "ext-dom": "*",
         "tightenco/collect": ">5.0"
